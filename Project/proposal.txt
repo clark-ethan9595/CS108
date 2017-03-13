@@ -1,0 +1,10 @@
+Proposal for Final Project
+Ethan Clark
+CS108
+
+For my final project, I would like to build an user interface application similar to the games Battlestar
+Galactica and Space Invaders, where their is a main space ship on the bottom of the screen, and the goal is 
+to eliminate, by shooting, the other space ships on the top of the screen. The user will be able to see their 
+score on the screen, which is determined by how many of the other space ships they eliminate during the game. 
+The user will lose when one of the other space ships hits their main space ship. This application will make 
+a lot of use of the canvas part of Tkinter. I will have buttons on the screen to reset, pause, and start the game.

@@ -1,0 +1,6 @@
+The employee with the largest salary is: LastName476, F.: full ($129975.83)
+The employee with the smallest salary is: LastName820, F.: assistant ($50009.26)
+Rank	Average Salary
+assistant	65949.55019543978
+full	102229.37366762172
+associate	83849.2633139535

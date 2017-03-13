@@ -1,0 +1,21 @@
+SpaceShip Adventures
+Created by Ethan Clark (elc3)
+CS108 - Final Project
+
+This game contains a main, user-controlled spaceship on the bottom of the screen. The main spaceship appears once the
+user clicks on the start button or hits the start key. Once the user does that, the main spaceship appears and the
+enemy spaceships and asteroids begin to fall down the screen.
+ 
+The goal of the game is to shoot laser beams at the enemy spaceships and avoid/dodge the asteroids. The user shoots 
+laser beams by pressing the space bar and the user moves the main spaceship left and right with the left and right
+arrow keys. The user gets 100 points for every time an enemy spaceship is taken down. There are six levels to this
+game where each level the ships and asteroids come a little quicker. Also, the enemy ships do not shoot laser beams 
+the first level, they shoot one laser beam at a random time the second level, and for levels three through six, the 
+enemy ships shoot two laser beams at random times. The sixth level is infinite, so a new higher score can always be 
+set every time someone plays.
+
+If an enemy ship gets down to a certain point on the screen, the game is over. If the user gets hit by an asteroid,
+the game is over. If the user gets hit by an enemy laser beam, the game is over. There are start, pause, resume, and 
+restart buttons that allow the user to do the task given by the name of the button when it is clicked. There is also 
+an instructions button that opens a separate window that gives the goals, instructions, and keyboard shortcuts for 
+the game.
